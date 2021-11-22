@@ -1,0 +1,10 @@
+
+.btn-brown {
+	margin-top: 100px;
+	padding: 10px 20px;
+	background-color: rgb(92, 61, 46);
+	color: whitesmoke;
+	border-radius: 3px;
+	font-weight: bold;
+	font-family: "Robto", sans-serif;
+}
